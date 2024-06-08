@@ -3,7 +3,7 @@
   <a href="" target="_blank">Nishita Pande</a>
 </h2>
 <br/>
-## 🛠 Installation and Setup Instructions
+ 🛠 Installation and Setup Instructions
 
 1. Installation: `npm install`
 
