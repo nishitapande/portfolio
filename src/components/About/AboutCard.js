@@ -11,30 +11,15 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Nishita Pande </span>
             from <span className="purple"> Ghaziabad, India.</span>
             <br />
-            I am currently final year student.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I am currently in my final year of pursuing a B.Tech in Computer
+            Science and Engineering.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I specialize in creating dynamic and responsive web applications,
+            with expertise in both front-end and back-end development.
+            <br />
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>

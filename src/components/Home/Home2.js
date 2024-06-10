@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avator.jpeg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,34 +19,20 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+              I've developed a deep passion for programming and have honed my
+              skills across various technologies. My tech stack primarily
+              revolves around MERN (MongoDB, Express.js, React.js, and Node.js).
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to <b className="purple">Blockchain.</b>
-              </i>
+              <br />I thrive on the excitement of building new web technologies
+              and innovative products. Web development is my true calling, and I
+              eagerly apply my expertise to create dynamic and efficient web
+              applications.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              Whether it's designing a seamless user interface with React.js or
+              building robust back-end services with Node.js, I'm always driven
+              to push the boundaries of what's possible on the web.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
