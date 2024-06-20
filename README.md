@@ -3,6 +3,8 @@
   <a href="" target="_blank">Nishita Pande</a>
 </h2>
 <br/>
+<br/>
+Hosted link: https://portfolio-nishita-pande.vercel.app/
  🛠 Installation and Setup Instructions
 
 1. Installation: `npm install`
