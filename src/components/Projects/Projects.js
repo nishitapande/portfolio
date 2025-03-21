@@ -25,7 +25,7 @@ function Projects() {
               title="CuisineConnect"
               description="CuisineConnect is a dynamic web application built using the MERN stack, combining the power of MongoDB, Express.js, React, and Node.js. This user-friendly platform allows food enthusiasts to search for and create delicious recipes. With an intuitive search feature, users can easily discover a variety of recipes to suit their culinary preferences."
               ghLink="https://github.com/nishitapande/recipe-share-frontend"
-              demoLink="https://recipe-share-frontend.vercel.app/"
+              // demoLink="https://recipe-share-frontend.vercel.app/"
             />
           </Col>
 
@@ -36,7 +36,6 @@ function Projects() {
               title="SwiftBuy"
               description="SwiftBuy is a robust e-commerce platform developed using the MERN stack, incorporating MongoDB, Express.js, React, and Node.js, with Redux for efficient state management. SwiftBuy's integration of Redux ensures smooth and responsive user interactions, maintaining state consistency across the application."
               ghLink="https://github.com/nishitapande/SwiftBuy"
-
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
